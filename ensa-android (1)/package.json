@@ -1,0 +1,14 @@
+{
+  "name": "ensa-stok",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "android": "npx cap add android && npx cap copy && npx cap open android"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.0"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.0"
+  }
+}

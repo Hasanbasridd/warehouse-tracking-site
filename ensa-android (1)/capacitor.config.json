@@ -1,0 +1,7 @@
+{
+  "appId": "com.ensa.stok",
+  "appName": "ENSA Stok",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
